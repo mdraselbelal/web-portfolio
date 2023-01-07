@@ -18,3 +18,18 @@
     margin: auto;
     
 }
+.section{
+    display: flex;
+    margin-top: 30px;
+
+}
+/* title-pera */
+.title-pera{
+    margin-top: auto;
+    width: 416px;
+    height: 400px;
+
+}
+.title-plan{
+    text-align: center;
+}
