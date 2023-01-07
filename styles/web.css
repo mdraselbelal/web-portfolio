@@ -40,3 +40,19 @@
     width: 1100px;
     
 }
+.my-section{
+    background-image: url("../images/gradient3.png");
+    color: white;
+}
+.btn-call{
+    border: 0;
+    color: brown;
+}
+.last-work{
+    display: flex;
+    margin-top: 30px;
+    background-color: black;
+}
+.color{
+    color: white;
+}
